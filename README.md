@@ -159,65 +159,65 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(1).pdf" style="text-decoration:none;">A Heat Transfer Textbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(1).pdf" style="text-decoration:none;">Kucers' the use of antibiotics: A clinical review of antibacterial, antifungal, antiparasitic, and antiviral drugs</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(2).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(2).pdf" style="text-decoration:none;">Antibiotics Containing the Beta-Lactam Structure: Part II</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(3).pdf" style="text-decoration:none;">Lectures - Stephen Hawking </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(4).pdf" style="text-decoration:none;">Nuclear and Particle Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(5).pdf" style="text-decoration:none;">Elements of Nuclear Physics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(6).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(7).pdf" style="text-decoration:none;">Modern Physics for Science and Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(3).pdf" style="text-decoration:none;">Antibiotics: Volume I: Mechanism of Action </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(4).pdf" style="text-decoration:none;">Antibiotics in Laboratory Medicine</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(5).pdf" style="text-decoration:none;">Antibiotic and Chemotherapy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(6).pdf" style="text-decoration:none;">Antibiotic Discovery and Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(7).pdf" style="text-decoration:none;">Antibiotic Drug Discovery: New Targets and Molecular Entities</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(8).pdf" style="text-decoration:none;"> Conceptual Physics </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(8).pdf" style="text-decoration:none;"> How to Overcome the Antibiotic Crisis: Facts, Challenges, Technologies and Future Perspectives </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(9).pdf" style="text-decoration:none;"> Modern Physics for Scientists and Engineers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(9).pdf" style="text-decoration:none;"> Antibiotics: Actions, Origins, Resistance</a></li>
                               
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(10).pdf" style="text-decoration:none;">Concepts of Physics </a></li>                              
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(12).pdf" style="text-decoration:none;">Essential Physics Part I</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(13).pdf" style="text-decoration:none;">Physics: An overview</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(10).pdf" style="text-decoration:none;">Anthracycline antibiotics in cancer therapy </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(12).pdf" style="text-decoration:none;">Antibiotic Resistance of Bacteria </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(11).pdf" style="text-decoration:none;">Aminoglycoside antibiotics: From Chemical Biology to Drug Discovery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(13).pdf" style="text-decoration:none;">Management of Antimicrobials in Infectious Diseases: Impact of Antibiotic Resistance</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(14).pdf" style="text-decoration:none;">Physics II For Dummies</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(15).pdf" style="text-decoration:none;">Radiation Physics for Medical Physicists</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(14).pdf" style="text-decoration:none;">Frequency of Environmental Antibiotic Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(15).pdf" style="text-decoration:none;">Antibiotics: Methods and Protocols</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(16).pdf" style="text-decoration:none;">Atomic Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(16).pdf" style="text-decoration:none;">Chemistry of Antibiotics and Related Drugs</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(17).pdf" style="text-decoration:none;">The Grand Design</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(17).pdf" style="text-decoration:none;">Antibiotic Therapy for Geriatric Patients</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(18).pdf" style="text-decoration:none;">Mathematical Physics: Applied Mathematics for Scientists and Engineers</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(19).pdf" style="text-decoration:none;">Fundamentals of Physics</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(18).pdf" style="text-decoration:none;">Antibiotic and Antifungal Therapies in Dermatology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(19).pdf" style="text-decoration:none;">Clinical Microbiology Made Ridiculously Simple </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(20).pdf" style="text-decoration:none;">Mathematical Methods for Physics and Engineering </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(20).pdf" style="text-decoration:none;">Aminoglycoside antibiotics </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(21).pdf" style="text-decoration:none;">Quantum Physics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(22).pdf" style="text-decoration:none;">Concepts of Modern Physics</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(21).pdf" style="text-decoration:none;">Applications of Mass Spectrometry in Microbiology: From Strain Characterization to Rapid Screening for Antibiotic Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(22).pdf" style="text-decoration:none;">Antibiotic Policies: Controlling Hospital Acquired Infection</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(23).pdf" style="text-decoration:none;">Semiconductor Device Physics and Design</a></li>
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(24).pdf" style="text-decoration:none;">Elementary Physics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(24).pdf" style="text-decoration:none;">Antibiotics: An Integrated View</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(25).pdf" style="text-decoration:none;">Introduction to Elementary Particle Physics</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(26).pdf" style="text-decoration:none;">Problems in General Physics</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(27).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(25).pdf" style="text-decoration:none;">Antibiotic Resistance: Bacteria, Viruses, Fungi, and other Pathogens, a Threat to World Health</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(26).pdf" style="text-decoration:none;">Synthesis of &beta;-lactam antibiotics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(27).pdf" style="text-decoration:none;">Antibiotic Pharmacodynamics</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(28).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(29).pdf" style="text-decoration:none;">Tensors for Physics </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(29).pdf" style="text-decoration:none;">The biology of antibiotic resistance plasmids </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(30).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(30).pdf" style="text-decoration:none;">Antibiotics and Antibiotics: Resistance Genes in Soils Monitoring, Toxicity, Risk Assessment and Management</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(31).pdf" style="text-decoration:none;">SAT II Physics</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(31).pdf" style="text-decoration:none;">Antibiotics and Urinary Tract Infections</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(32).pdf" style="text-decoration:none;">Engineering Physics</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(33).pdf" style="text-decoration:none;">Photography, Physics, and Complexity: Strange Bedfellows or a New Aesthetic?</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(33).pdf" style="text-decoration:none;">Antibiotics in obstetrics and gynecology</a></li> 
                    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(34).pdf" style="text-decoration:none;">Physics of Magnetism and Magnetic Materials</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(34).pdf" style="text-decoration:none;">Streptomyces in Nature and Medicine: The Antibiotic Makers </a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(35).pdf" style="text-decoration:none;">Modern Particle Physics</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(36).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(35).pdf" style="text-decoration:none;">Antibiotic resistance in the gut microbiota</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(36).pdf" style="text-decoration:none;">Antimicrobials: New and Old Molecules in the Fight Against Multi-Resistant Bacteria</a></li> 
   
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(37).pdf" style="text-decoration:none;">Fundamentals of Geophysics</a></li>
