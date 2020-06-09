@@ -204,7 +204,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(27).pdf" style="text-decoration:none;">Antibiotic Pharmacodynamics</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(28).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(28).pdf" style="text-decoration:none;">The Effects of Garlic on the Susceptibility of MRSA to &beta;-lactam Antibiotics</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(29).pdf" style="text-decoration:none;">The biology of antibiotic resistance plasmids </a></li>                              
 
