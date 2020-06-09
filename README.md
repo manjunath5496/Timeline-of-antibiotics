@@ -221,106 +221,96 @@
   
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(37).pdf" style="text-decoration:none;">THE ANTIBIOTIC PARADOX: How Miracle Drugs Are Destroying the Miracle</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(38).pdf" style="text-decoration:none;">Teacher Education in Physics: Research, Curriculum, and Practice</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(39).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(40).pdf" style="text-decoration:none;">Physics 101: An Introduction To Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(41).pdf" style="text-decoration:none;">Dictionary of Geophysics, Astrophysics, and Astronomy</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(42).pdf" style="text-decoration:none;">Beyond Einstein: from the Big Bang to black holes </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(38).pdf" style="text-decoration:none;">Antibiotics: Targets, Mechanisms and Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(39).pdf" style="text-decoration:none;">Antibiotics and Antiseptics in Periodontal Therapy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(40).pdf" style="text-decoration:none;">Biochemistry Laboratory Manual For Undergraduates: An Inquiry-Based Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(41).pdf" style="text-decoration:none;">Antibiotic resistance : causes and risk factors, mechanisms and alternatives</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(42).pdf" style="text-decoration:none;">The Antibiotic Era </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(43).pdf" style="text-decoration:none;">Mathematics for theoretical physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(44).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays  </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(45).pdf" style="text-decoration:none;">Fundamentals of Plasma Physics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(43).pdf" style="text-decoration:none;">Herbal Antibiotics: What BIG Pharma Doesn’t Want You to Know - How to Pick and Use the 45 Most Powerful Herbal Antibiotics for Overcoming Any Ailment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(44).pdf" style="text-decoration:none;">Antibiotic Pharmacokinetic/Pharmacodynamic Considerations in the Critically Ill  </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(45).pdf" style="text-decoration:none;">Nelson's Pediatric Antimicrobial Therapy</a></li>
                             
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(46).pdf" style="text-decoration:none;">The Physics of Waves</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(46).pdf" style="text-decoration:none;">Improving Antibiotic Prescribing for Uncomplicated Acute Respiratory Tract Infections</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(47).pdf" style="text-decoration:none;">Computational Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(47).pdf" style="text-decoration:none;">Battling Resistance to Antibiotics and Pesticides: An Economic Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(48).pdf" style="text-decoration:none;">Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(48).pdf" style="text-decoration:none;">The Chopra Center herbal handbook: forty natural prescriptions for perfect health </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(49).pdf" style="text-decoration:none;">Introductory Physics II: Waves, Acoustics, Electromagnetism, Optics, and Modern Physics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(50).pdf" style="text-decoration:none;">Polymer Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(49).pdf" style="text-decoration:none;">Synthetic Biology of Antibiotic Production</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(50).pdf" style="text-decoration:none;">Biotechnology of Antibiotics and Other Bioactive Microbial Metabolites</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(51).pdf" style="text-decoration:none;">Basic Theoretical Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(51).pdf" style="text-decoration:none;">Chemical Analysis of Antibiotic Residues in Food </a></li>
 
-
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(53).pdf" style="text-decoration:none;">Introductory Physics II: Electricity, Magnetism and Optics</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(54).pdf" style="text-decoration:none;">Practical Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(52).pdf" style="text-decoration:none;">Studies on resistance pattern to Beta-lactam antibiotics in Staphylococcus aureus and Escherichia coli isolated
+from milk of buffaloes with mastitis </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(53).pdf" style="text-decoration:none;">Antibiotic resistant bacteria</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(56).pdf" style="text-decoration:none;"> GRE Physics Test Practice Book</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(54).pdf" style="text-decoration:none;">Antibiotics and Antibiotic Resistance </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(55).pdf" style="text-decoration:none;">Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(56).pdf" style="text-decoration:none;"> How To Survive In A World Without Antibiotics</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(57).pdf" style="text-decoration:none;">The Physics of Quantum Mechanics  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(58).pdf" style="text-decoration:none;">Mathematical Tools for Physics  </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(58).pdf" style="text-decoration:none;">Quantitative Health Risk Analysis Methods: Modeling the Human Health Impacts of Antibiotics Used in Food Animals  </a></li>
 
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(59).pdf" style="text-decoration:none;">Physics Problem Solving in Cooperative Learning Groups </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(59).pdf" style="text-decoration:none;">Antibiotic Basics for Clinicians: The ABCs of Choosing the Right Antibacterial Agent </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(60).pdf" style="text-decoration:none;">An Introduction to Black Holes, Information and the String Theory Revolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(60).pdf" style="text-decoration:none;">Biology of Antibiotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(61).pdf" style="text-decoration:none;">Agricultural Uses of Antibiotics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(62).pdf" style="text-decoration:none;">A Briefer History of Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(63).pdf" style="text-decoration:none;">Statistical Physics </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(64).pdf" style="text-decoration:none;">Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(65).pdf" style="text-decoration:none;">The Poetry of Physics and The Physics of Poetry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(62).pdf" style="text-decoration:none;">Antibiotic Resistance: Understanding and Responding to an Emerging Crisis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(63).pdf" style="text-decoration:none;">Medical Bacteriology </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(64).pdf" style="text-decoration:none;">Pneumonia Before Antibiotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(65).pdf" style="text-decoration:none;">Herbal Antibiotics: Beginners Guide to Using Herbal Medicine to Prevent, Treat and Heal Illness with Natural Antibiotics and Antivirals</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(66).pdf" style="text-decoration:none;"> A-Level Physics Revision notes 2015 </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(66).pdf" style="text-decoration:none;"> Antibiotic Therapy </a></li>
                               
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(67).pdf" style="text-decoration:none;">Electromagnetic Field Theory </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(68).pdf" style="text-decoration:none;">Determinants and Their Applications in Mathematical Physics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(69).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(70).pdf" style="text-decoration:none;">Applied Mathematical Methods in Theoretical Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(67).pdf" style="text-decoration:none;">The Daschner Guide to In-Hospital Antibiotic Therapy </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(68).pdf" style="text-decoration:none;">Antibiotics - A Medical Dictionary, Bibliography, and Annotated Research Guide to Internet References</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(69).pdf" style="text-decoration:none;">Antibiotics Simplified</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(70).pdf" style="text-decoration:none;">ENZYBIOTICS: Antibiotic Enzymes as Drugs and Therapeutics</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(71).pdf" style="text-decoration:none;">Introduction to string field theory</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(72).pdf" style="text-decoration:none;">Introduction to Particle Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(71).pdf" style="text-decoration:none;">The Use of Probiotics to Prevent Antibiotic Associated Diarrhea: Current Primary Care Practice and Introduction of an Evidence Based Practice Protocol</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(72).pdf" style="text-decoration:none;">Combating antibiotic resistance: Report to the president and national strategy</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(73).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(73).pdf" style="text-decoration:none;">Evaluation of Antibiotic Resistance Emerging from use of Antibiotics in CAFOs</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(74).pdf" style="text-decoration:none;">The Theory of Everything</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(74).pdf" style="text-decoration:none;">Peptide Antibiotics</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(75).pdf" style="text-decoration:none;">Formulae Sheet for Physics</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(76).pdf" style="text-decoration:none;">Equations in Physics</a></li> 
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(78).pdf" style="text-decoration:none;">Physics pocket diary of concepts and formulas </a></li>
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(11).pdf" style="text-decoration:none;">Cosmos</a></li>   
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(52).pdf" style="text-decoration:none;">Pale Blue Dot</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(55).pdf" style="text-decoration:none;">Dragons of Eden</a></li> 
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(61).pdf" style="text-decoration:none;">Brief Answers to the Big Questions </a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(77).pdf" style="text-decoration:none;">The Nature of Space and Time </a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(79).pdf" style="text-decoration:none;">Introductory Physics I: Elementary Mechanics </a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(80).pdf" style="text-decoration:none;">Physics Workbook For Dummies </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(75).pdf" style="text-decoration:none;">Antibiotics: The Perfect Storm</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(76).pdf" style="text-decoration:none;">When the Body Says No - The Cost of Hidden Stress</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(77).pdf" style="text-decoration:none;">The use of antibiotics in food-producing animals: antibiotic-resistant bacteria in animals and humans</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(78).pdf" style="text-decoration:none;">Natural Alternatives to Antibiotics </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(81).pdf" style="text-decoration:none;">Quantum Physics For Dummies </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(82).pdf" style="text-decoration:none;">Nuclear Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(79).pdf" style="text-decoration:none;">Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(83).pdf" style="text-decoration:none;">Physics Olympiad — Basic to Advanced Exercises  </a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(84).pdf" style="text-decoration:none;">Tensors for Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(80).pdf" style="text-decoration:none;">Antibiotic Guidelines: 2015-2016 </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(85).pdf" style="text-decoration:none;"> Introduction to Modern Optics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(81).pdf" style="text-decoration:none;">Natural Antibiotics: 15 of the Most Powerful Natural Antibiotics That Kills All Infections </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(86).pdf" style="text-decoration:none;">200 More Puzzling Physics Problems: With Hints and Solutions </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(82).pdf" style="text-decoration:none;">Natural Antibiotics and Antivirals: The Ultimate Guide to Natural Antibiotics - Homemade Herbal Remedies That Kill Pathogens and Cure Bacterial Infections and Allergies. Prevent Illness, Cold and Flu </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(87).pdf" style="text-decoration:none;">The Feynman Lectures on Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(83).pdf" style="text-decoration:none;">Heterocyclic Antitumor Antibiotics  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(88).pdf" style="text-decoration:none;">IIT JEE Super Course in Physics: Optics and Modern Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(84).pdf" style="text-decoration:none;">Antibiotic Resistance: Implications for Global Health and Novel Intervention Strategies </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(89).pdf" style="text-decoration:none;">Fundamentals of Nuclear Reactor Physics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(85).pdf" style="text-decoration:none;"> Antibiotics: Challenges, Mechanisms, Opportunities </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-antibiotics/blob/master/antb(86).pdf" style="text-decoration:none;">Macrolide Antibiotics </a></li>
+
 
 
 </ul>
